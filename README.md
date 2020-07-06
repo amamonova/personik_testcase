@@ -18,6 +18,7 @@ For text representation FastText embeddings are used.
 So, you should download the pre-trained model. 
 
 Change directory to personik_testcase/text_classification/data folder.
+And download the model:
 
 ```shell script
 wget https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.ru.300.bin.gz
