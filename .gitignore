@@ -1,0 +1,4 @@
+.DS_Store
+.ipynb_checkpoints
+personik_testcase_venv/
+text_classification/data/cc.ru.300.bin
