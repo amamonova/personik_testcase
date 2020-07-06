@@ -5,6 +5,12 @@ This repo contains script for text classification by 4 classes:
 
 Language: Russian
 
+text_classification folder consists of:
+- data folder (training and test datasets)
+- experiments.ipynb is jupyter notebook with experiments
+- fasttext_mlpclassifier.joblib saved model
+- inference.py is main script
+
 ## Getting Started
 
 Clone this repo.
