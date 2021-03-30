@@ -47,7 +47,7 @@ prompt-toolkit==3.0.5
 ptyprocess==0.6.0
 pybind11==2.5.0
 PyDictionary==1.5.2
-Pygments==2.6.1
+Pygments==2.7.4
 pymorphy2==0.8
 pymorphy2-dicts==2.4.393442.3710985
 pymorphy2-dicts-ru==2.4.404381.4453942
